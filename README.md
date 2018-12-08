@@ -15,10 +15,10 @@ This is a div wrapping some Markdown plus.  Without the DIV attribute, it ignore
 block. 
 </div>
 
-## Markdown plus tables ##
+## Compañeros de clase : ##
 
-| Header | Header | Right  |
-| ------ | ------ | -----: |
-|  Cell  |  Cell  |   $10  |
-|  Cell  |  Cell  |   $20  |
+| Nombre | Github
+| :------: | :------: |
+| Antonio Rodriguez | antoniohupa  |   
+|   |   |    |
 
