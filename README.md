@@ -7,6 +7,6 @@ git clone https://github.com/rctguli/masteruah.git
 
 | Nombre | Github |
 | :------: | :------: |
-| Antonio Rodriguez | antoniohupa  |   
-| Verónica Morante   | vmorante  |
+| Antonio  |   |   
+| Verónica    | v  |
 
